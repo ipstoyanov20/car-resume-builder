@@ -16,7 +16,7 @@ import { Configuration } from "./configuration";
 // @ts-ignore
 import globalAxios, { AxiosRequestConfig, AxiosInstance } from 'axios';
 
-export const BASE_PATH = "https://car-resume-api.azurewebsites.net".replace(/\/+$/, "");
+export const BASE_PATH = "https://car-resume-builder.azurewebsites.net".replace(/\/+$/, "");
 
 /**
  *

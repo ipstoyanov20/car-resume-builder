@@ -12,7 +12,7 @@ using ORB.Data.Data;
 namespace ORB.WebHost.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240114191339_Init")]
+    [Migration("20240408172118_Init")]
     partial class Init
     {
         /// <inheritdoc />

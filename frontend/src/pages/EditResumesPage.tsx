@@ -38,7 +38,7 @@ interface UserData {
 		Distance: string;
 		Engine: string;
 		Status: string;
-		ImageUrl: string;
+		CarImageUrl: string;
   };
 }
 
@@ -245,7 +245,7 @@ const UpdateResume = async () => {
 					Price: carInfoResponse.data.price ?? "",
 					Status: carInfoResponse.data.status ?? "",
 					Engine: carInfoResponse.data.engine ?? "",
-					ImageUrl: carInfoResponse.data.carImageURL ?? "",
+					CarImageUrl: carInfoResponse.data.carImageURL ?? "",
 				},
 			});
 		} catch (error) {

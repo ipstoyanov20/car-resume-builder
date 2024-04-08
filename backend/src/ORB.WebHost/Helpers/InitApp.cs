@@ -80,8 +80,8 @@ public static class InitApp
                         <div style="width: 267.39px; height: 13.43px; left: 0px; top: 0px; position: absolute; color: white; font-size: 20px; font-family: Salsa; font-weight: 400; word-wrap: break-word">Price:</div>
                         <div style="width: 245.27px; height: 11.29px; left: 89.91px; top: 0.05px; position: absolute; opacity: 0.50; color: white; font-size: 20px; font-family: Salsa; font-weight: 400; word-wrap: break-word">{{CarInfo.Price}}</div>
                     </div>
-                {{#if CarInfo.ImageUrl}}
-                    <img style="width: 350.20px; height: 252.23px; left: 29.26px; top: 25.66px; position: absolute; border-radius: 50px" src={{CarInfo.ImageUrl}}>
+                {{#if CarInfo.CarImageUrl}}
+                    <img style="width: 350.20px; height: 252.23px; left: 29.26px; top: 25.66px; position: absolute; border-radius: 50px" src={{CarInfo.CarImageUrl}}>
                 {{/if}} 
                 
                     <div style="width: 402.54px; height: 321.41px; left: 239.71px; top: 306.97px; position: absolute; background: #323B4C; border-bottom-right-radius: 50px"></div>
