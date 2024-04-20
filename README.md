@@ -27,7 +27,7 @@ The user-friendly interface makes it simple for users of all levels to create an
 
 
 ## You can preview backend in more detailed way in Postman on those URL:
-https://car-resume-api.azurewebsites.net/swagger/v1/swagger.json
+https://car-resume-builder.azurewebsites.net/swagger/v1/swagger.json
 
 
 [CarResumeBuilder Presentation](https://www.canva.com/design/DAF5-OxZzic/eUEEnBIlGoZacxQ_MuYrJA/edit)
