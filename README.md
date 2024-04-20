@@ -12,7 +12,7 @@ The user-friendly interface makes it simple for users of all levels to create an
 ## Getting Started
 
 1. **Sign Up or Log In in the website:**
-      https://orange-coast-016e35003.4.azurestaticapps.net
+    https://icy-sky-0a04a2203.5.azurestaticapps.net
 
    Create an account or log in if you're a returning user. Your progress will be saved, allowing you to edit and update your resume at any time. 
 
